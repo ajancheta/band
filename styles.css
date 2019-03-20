@@ -3,3 +3,10 @@ img{
   height: 200px;
   width: 30%;
 }
+
+.sidebar{
+  width: 20%;
+  float: right;
+  background-color: black;
+  color: #FFF;
+}
